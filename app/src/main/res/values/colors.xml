@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#223e8a</color>
+    <color name="colorPrimaryDark">#00195c</color>
+    <color name="colorAccent">#5868bb</color>
+    <color name="white">#FFFFFF</color>
+    <color name="arc_primary">#223e8a</color>
+    <color name="arc_dark">#00195c</color>
+    <color name="arc_accent">#5868bb</color>
+    <color name="arc_hints">#919292</color>
+    <color name="edit_text_background">#BBBBBB</color>
+    <color name="light_background">#F5F5F6</color>
+    <color name="box_background">#e1e2e1</color>
+    <color name="error">#bb0000</color>
+    <color name="et_active">#4ef109</color>
+
+</resources>

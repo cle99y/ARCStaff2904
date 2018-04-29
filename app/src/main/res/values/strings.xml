@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ARC Whereabouts</string>
+    <string name="new_user_button">CREATE NEW USER</string>
+    <string name="create_new_user">Create New User</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="bus_unit">Business Unit</string>
+    <string name="error_there_is_a_problem">Error: there is a problem</string>
+    <string name="home_office">Home Office</string>
+    <string name="business_unit">Business Unit</string>
+    <string name="select_bu">Select BU</string>
+    <string name="select_home_office">Select Home Office</string>
+    <string name="email">Email</string>
+    <string name="name_consultarc_com">name@consultarc.com</string>
+    <string name="country_code">Country Code</string>
+    <string name="country">Country</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="btn_create_new_user">create new user</string>
+    <string name="open_parenthesis">(</string>
+    <string name="close_parenthesis">)</string>
+
+    <string-array name="bu_array">
+        <item>Defence</item>
+        <item>Nuclear</item>
+        <item>Rail</item>
+        <item>Oil &amp; Gas</item>
+        <item>Resource Management</item>
+        <item>Operations</item>
+    </string-array>
+</resources>
+
+
